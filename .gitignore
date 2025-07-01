@@ -1,0 +1,6 @@
+.DT_Store
+node_modules/
+dist/
+.env
+coverage/
+.vscode/
